@@ -1,0 +1,4 @@
+Flask
+wechatpy
+cryptography
+requests
